@@ -1,0 +1,13 @@
+f:1-2:Dasturlash asoslari:Quvondiqov:maruza:z:1:01-04:
+f:1-2-3:Dasturlash asoslari:Qayumov:amaliy:203:1:f:
+f:3-4:Jismoniy tarbiya:Fayzullayev:amaliy:sz:1:f:
+dushanba:2-3:Matematik analiz:Hasanov:maruza:z:1:01:
+shanba:1-2-3:Matematik analiz:Musayev:amaliy:f:1:f:
+f:1-2-3:Analitik Geometriya:Quvondiqov:amaliy:f:1:f:
+juma:2-3:Analitik Geometriya:Azamov:maruza:z:1:01:
+f:1-2:Diskret matematika:Axatov:maruza:z:1:02:
+f:2-3-4:Diskret matematika:Qayumov:amaliy:f:1:f:
+f:1-2-3-4:Ingliz tili:Quvondiqova/    :amaliy:f:2:f:
+f:1-2-3-4:Rus tili:Tugalov/    :amaliy:f:1.5:f:
+f:1-2:Falsafa:Shermuhammedova:maruza:z:1:01:
+f:1-2-3-4:Falsafa:Jo`raqulov:amaliy:f:1:f:
